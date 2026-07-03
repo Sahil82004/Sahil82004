@@ -1,6 +1,6 @@
-**Hi, I'm Sahil 👋**
+#Hi, I'm Sahil 👋**
 **──────────────────────────────────────────────────**
-**🚀 About Me**
+##🚀 About Me
 
 I am a Computer Engineering graduate interested in software development and building practical technology projects.
 - 🌱 I enjoy working with Java, Python, and SQL
@@ -8,13 +8,13 @@ I am a Computer Engineering graduate interested in software development and buil
 - ☁️ I have basic knowledge of cloud technologies and deployment
 - 🎯 I’m seeking entry-level opportunities in Software Development and IT
 **──────────────────────────────────────────────────**
-**🛠️ Technical Skills**
+##🛠️ Technical Skills
 - Languages: Java, Python, SQL
 - Databases: MySQL, MongoDB
 - Tools: Git, GitHub, VS Code
 - Cloud & Deployment: AWS, Firebase, Vercel, Render
 **──────────────────────────────────────────────────**
-**🚀 Projects**
+##🚀 Projects
 **🥗 Nutrigen – Personalized Nutrition System**
 A personalized nutrition web application with features such as meal recommendations, medical report analysis, hydration tracking, an AI chatbot, and food nutrition analysis.
 Technologies Used: React.js, Flask, Python, MongoDB, Firebase, Machine Learning
