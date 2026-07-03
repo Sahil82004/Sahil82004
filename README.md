@@ -1,27 +1,38 @@
-#Hi, I'm Sahil 👋**
-**──────────────────────────────────────────────────**
-##🚀 About Me
+# Hi, I'm Sahil 👋
 
-I am a Computer Engineering graduate interested in software development and building practical technology projects.
-- 🌱 I enjoy working with Java, Python, and SQL
-- 💻 I have worked on academic projects involving web development and machine learning
-- ☁️ I have basic knowledge of cloud technologies and deployment
-- 🎯 I’m seeking entry-level opportunities in Software Development and IT
-**──────────────────────────────────────────────────**
-##🛠️ Technical Skills
-- Languages: Java, Python, SQL
-- Databases: MySQL, MongoDB
-- Tools: Git, GitHub, VS Code
-- Cloud & Deployment: AWS, Firebase, Vercel, Render
-**──────────────────────────────────────────────────**
-##🚀 Projects
-**🥗 Nutrigen – Personalized Nutrition System**
-A personalized nutrition web application with features such as meal recommendations, medical report analysis, hydration tracking, an AI chatbot, and food nutrition analysis.
-Technologies Used: React.js, Flask, Python, MongoDB, Firebase, Machine Learning
-**──────────────────────────────────────────────────**
-**🛒 StoreLinker – Omnichannel E-Commerce Platform**
-An academic project that enables vendors to manage products and inventory while allowing customers to browse products, place orders, and track purchases.
-Technologies Used: React.js, Node.js, Express.js, MongoDB
-**──────────────────────────────────────────────────**
+## 🚀 About Me
 
-📫 Feel free to connect with me on LinkedIn or explore my projects!
+I’m a Computer Engineering graduate with a strong interest in software development, problem-solving, and building practical technology solutions.
+
+- 💻 Working with **Java, Python, and SQL**
+- 🚀 Built projects across **web development, machine learning, and database-driven applications**
+- 🧩 Interested in solving real-world problems through technology
+- ⚡ Focused on writing better code and expanding my technical capabilities
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, SQL
+- **Web Technologies:** React.js, Flask
+- **Databases:** MySQL, MongoDB
+- **Cloud & Deployment:** AWS, Firebase, Vercel, Render
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+
+### 🥗 Nutrigen — Personalized Nutrition System
+
+A personalized nutrition platform designed to provide intelligent health and nutrition assistance through meal recommendations, medical report analysis, hydration tracking, an AI chatbot, and food nutrition analysis.
+
+**Technologies:** React.js, Flask, Python, MongoDB, Firebase, Machine Learning
+
+### 🛒 StoreLinker — Omnichannel E-Commerce Platform
+
+An e-commerce platform designed to connect local stores with customers while supporting product management, inventory management, online ordering, and order tracking.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+### 🤝 Let's Connect
+
+Feel free to explore my projects and connect with me on LinkedIn.
