@@ -26,7 +26,7 @@ A personalized nutrition web application with features such as meal recommendati
 
 ### 🛒 StoreLinker – Omnichannel E-Commerce Platform
 
-An academic project that enables vendors to manage products and inventory while allowing customers to browse products, place orders, and track purchases.
+A full-stack platform that helps local vendors manage inventory while allowing customers to browse products, place orders, and track purchases.
 
 **Technologies Used:** React.js, Node.js, Express.js, MongoDB
 
