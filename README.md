@@ -24,6 +24,12 @@ A personalized nutrition web application with features such as meal recommendati
 
 **Technologies Used:** React.js, Flask, Python, MongoDB, Firebase, Machine Learning
 
+## 🎥 Project Demo
+
+Watch Nutrigen in action and explore its key features.
+
+[▶️ Watch Demo Video](https://drive.google.com/file/d/15WCHw6ehWG2R_DTsFl-yUBmGJ9D0BpC6/view?usp=sharing)
+
 ### 🛒 StoreLinker – Omnichannel E-Commerce Platform
 
 A full-stack platform that helps local vendors manage inventory while allowing customers to browse products, place orders, and track purchases.
